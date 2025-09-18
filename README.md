@@ -13,7 +13,7 @@ Foram explorados recursos como clusters, execução de notebooks com IA, filtros
 6. Integração com repositório Git para versionamento.
 
 ## Prints
-![Notebook em execução](imagens/notebook.jpeg)
+![Notebook em execução](imagens/notebook.png)
 
 ## Insights
 - A IA acelera a escrita de queries e código em Spark.
