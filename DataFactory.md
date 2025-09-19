@@ -39,6 +39,3 @@ Este repositório faz parte do desafio da **Digital Innovation One (DIO)**, com 
 - A aplicação de **IaC (Infraestrutura como Código)** para ganhar agilidade e padronização no provisionamento.
 
 ---
-
-## 📎 Link do Projeto
-[Repositório no GitHub](https://github.com/seu-usuario/seu-repositorio)
